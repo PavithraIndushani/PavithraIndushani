@@ -16,7 +16,7 @@
 <a href="https://youtube.com/@pavithraindushani?si=fNpjFVKPcxOEz6jq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavithra indushani" height="30" width="40" /></a>
 <a href="https://fb.com/pavithra indushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pavithra indushani" height="30" width="40" /></a>
 <a href="https://instagram.com/pavithra indushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pavithra indushani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pavithraindushani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pavithraindushani" height="30" width="40" /></a>
+<a href="https://youtube.com/@pavithraindushani?si=fNpjFVKPcxOEz6jq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pavithraindushani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
